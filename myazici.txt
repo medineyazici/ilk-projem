@@ -1,2 +1,3 @@
 ilk kod
 merhaba ben dünyalı
+git öğreniyorum
